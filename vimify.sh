@@ -4,7 +4,7 @@ cp -r .vim/ ~/
 cp .vimrc ~/
 
 
-git clone https://github.com/kien/ctrlp.vim.git bundle/ctrlp.vim ~/.vim/bundle/vim-ctrlp
+git clone https://github.com/kien/ctrlp.vim.git ~/.vim/bundle/vim-ctrlp
 
 git clone https://github.com/scrooloose/syntastic.git ~/.vim/bundle/vim-syntastic
 
